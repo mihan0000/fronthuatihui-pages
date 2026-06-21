@@ -1,2 +1,14 @@
 # fronthuatihui-pages
-HTML page archive and documentation
+
+静态内容发布记录
+
+本项目用于归档自动化任务输出的页面文件和基础说明。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 提交说明
+
+页面文件由程序提交，提交历史可作为变更记录参考。
